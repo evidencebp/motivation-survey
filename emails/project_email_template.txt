@@ -1,0 +1,25 @@
+Hello,
+
+We are a team of researchers interested in improving software development.
+
+We are interested in the answers of different defelopers working on the same project se we will be able to match them.
+We will be tahnkfull if you'll answer about your experince at ${m://ExternalDataReference}.
+
+Answering these questions is estimated to take about 10 minutes of your time.
+
+Three of the participants will receive a 50$ gift card.
+
+Thank you so much for your help in answering  the survey.
+
+Prof. Dror Feitelson, Prof. Avi Kluger,  Ph.D. candidate Idan Amit
+
+If you have any question you can contact Idan Amit at idan.amit@mail.huji.ac.il
+
+Follow this link to the Survey: 
+${l://SurveyLink?d=Take the Survey}
+
+Or copy and paste the URL below into your internet browser:
+${l://SurveyURL}
+
+Follow the link to opt out of future emails:
+${l://OptOutLink?d=Click here to unsubscribe}

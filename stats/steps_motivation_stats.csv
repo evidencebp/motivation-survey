@@ -1,0 +1,46 @@
+,Question,true_positives,true_negatives,false_positives,false_negatives,samples,accuracy,positive_rate,hit_rate,precision,precision_lift,recall,fpr,jaccard,independent_prob,lift_over_independent,lift_over_majority,concept_entropy,classifier_entropy,mutual_information,comment,Question Text,question_type,motivation_type
+0,Q78,3.0,46.0,2.0,9.0,60.0,0.82,0.2,0.08,0.6,2.0,0.25,0.04,0.21,0.75,0.09,0.02,0.72,0.41,0.05,,I am a core member of the repository,Person in Project,Ownership
+1,Q98.1,5.0,44.0,4.0,7.0,60.0,0.82,0.2,0.15,0.56,1.78,0.42,0.08,0.31,0.71,0.15,0.02,0.72,0.61,0.08,,"In the past year, members of my GitHub community expressed interest in my contributions. If you are the only developer in the project, please skip.",Person in Project,Recognition
+2,Q101,6.0,43.0,5.0,6.0,60.0,0.82,0.2,0.18,0.55,1.73,0.5,0.1,0.35,0.69,0.18,0.02,0.72,0.69,0.1,,I feel responsible to the repository success,Person in Project,Ownership
+3,Q83.1,4.0,44.0,4.0,8.0,60.0,0.8,0.2,0.13,0.5,1.5,0.33,0.08,0.25,0.72,0.11,0.0,0.72,0.57,0.05,,"The repository’s community of developers is more motivated than that of other repositories. If you are the only developer in the project, please skip.",Project,Community
+4,Q72,8.0,40.0,8.0,4.0,60.0,0.8,0.2,0.27,0.5,1.5,0.67,0.17,0.4,0.64,0.25,0.0,0.72,0.84,0.13,,I derive satisfaction from working on this repository,Person in Project,Enjoyment
+5,Q97.1,5.0,43.0,5.0,7.0,60.0,0.8,0.2,0.17,0.5,1.5,0.42,0.1,0.29,0.7,0.14,0.0,0.72,0.65,0.07,,"In the past year, members of my GitHub community asked questions that show their understanding of my contributions. If you are the only developer in the project, please skip.",Person in Project,Recognition
+6,Q67,6.0,41.0,7.0,6.0,60.0,0.78,0.2,0.22,0.46,1.31,0.5,0.15,0.32,0.67,0.17,-0.02,0.72,0.75,0.07,,I’m interested in the repository for my own needs,Person in Project,Self-use
+7,Q84.1,5.0,42.0,6.0,7.0,60.0,0.78,0.2,0.18,0.45,1.27,0.42,0.12,0.28,0.69,0.14,-0.02,0.72,0.69,0.06,,My personal motivation in this repository has increased since a year ago,Person in Project,
+8,Q102,5.0,42.0,6.0,7.0,60.0,0.78,0.2,0.18,0.45,1.27,0.42,0.12,0.28,0.69,0.14,-0.02,0.72,0.69,0.06,,I have significant influence on the repository,Person in Project,Ownership
+9,Q76,3.0,44.0,4.0,9.0,60.0,0.78,0.2,0.12,0.43,1.14,0.25,0.08,0.19,0.73,0.07,-0.02,0.72,0.52,0.03,,"The community is very professional. If you are the only developer in the project, please skip.",Project,Community
+10,Q93,6.0,39.0,9.0,6.0,60.0,0.75,0.2,0.25,0.4,1.0,0.5,0.19,0.29,0.65,0.15,-0.06,0.72,0.81,0.05,,I write tests for my code,Person,
+11,Q81,6.0,38.0,10.0,6.0,60.0,0.73,0.2,0.27,0.38,0.88,0.5,0.21,0.27,0.64,0.15,-0.08,0.72,0.84,0.05,,The quality of the code in this repository is better than others,Project,
+12,Q90,6.0,38.0,10.0,6.0,60.0,0.73,0.2,0.27,0.38,0.88,0.5,0.21,0.27,0.64,0.15,-0.08,0.72,0.84,0.05,,I want my code to be beautiful,Person,
+13,Q74,6.0,37.0,11.0,6.0,60.0,0.72,0.2,0.28,0.35,0.76,0.5,0.23,0.26,0.63,0.14,-0.1,0.72,0.86,0.04,,"When I look at what we accomplish, I feel a sense of pride",Person in Project,
+14,Q84,7.0,35.0,13.0,5.0,60.0,0.7,0.2,0.33,0.35,0.75,0.58,0.27,0.28,0.6,0.17,-0.13,0.72,0.92,0.05,,I regularly reach a high level of productivity,Person,
+15,Q70,6.0,36.0,12.0,6.0,60.0,0.7,0.2,0.3,0.33,0.67,0.5,0.25,0.25,0.62,0.13,-0.13,0.72,0.88,0.03,,My work on the repository is creative,Person in Project,Enjoyment
+16,Q79,6.0,36.0,12.0,6.0,60.0,0.7,0.2,0.3,0.33,0.67,0.5,0.25,0.25,0.62,0.13,-0.13,0.72,0.88,0.03,,I learn from my contributions,Person in Project,Learning
+17,Q95,6.0,36.0,12.0,6.0,60.0,0.7,0.2,0.3,0.33,0.67,0.5,0.25,0.25,0.62,0.13,-0.13,0.72,0.88,0.03,,I contribute to open source in order to have an online portfolio,Person,Recognition
+18,Q73,6.0,36.0,12.0,6.0,60.0,0.7,0.2,0.3,0.33,0.67,0.5,0.25,0.25,0.62,0.13,-0.13,0.72,0.88,0.03,,The repository is important,Project,Importance
+19,Q98,6.0,34.0,14.0,6.0,60.0,0.67,0.2,0.33,0.3,0.5,0.5,0.29,0.23,0.6,0.11,-0.17,0.72,0.92,0.02,,I contribute to open source in order to become a better programmer,Person,
+20,Q91,4.0,38.0,10.0,8.0,60.0,0.7,0.2,0.23,0.29,0.43,0.33,0.21,0.18,0.66,0.06,-0.13,0.72,0.78,0.01,,I enjoy software development very much,Person,Enjoyment
+21,Q77,6.0,33.0,15.0,6.0,60.0,0.65,0.2,0.35,0.29,0.43,0.5,0.31,0.22,0.59,0.1,-0.19,0.72,0.93,0.02,,I get recognition due to my contribution to the repository,Person in Project,Recognition
+22,Q96.1,2.0,43.0,5.0,10.0,60.0,0.75,0.2,0.12,0.29,0.43,0.17,0.1,0.12,0.73,0.03,-0.06,0.72,0.52,0.0,,"In the past year, members of my GitHub community made demeaning or derogatory remarks about me. If you are the only developer in the project, please skip.",Person in Project,Hostility
+23,Q96,6.0,32.0,16.0,6.0,60.0,0.63,0.2,0.37,0.27,0.36,0.5,0.33,0.21,0.58,0.09,-0.21,0.72,0.95,0.01,,I try to write high quality code because others will see it,Person,Recognition
+24,Q82,3.0,40.0,8.0,9.0,60.0,0.72,0.2,0.18,0.27,0.36,0.25,0.17,0.15,0.69,0.04,-0.1,0.72,0.69,0.01,,Code quality in the repository improved since a year ago,Project,
+25,Q94,5.0,34.0,14.0,7.0,60.0,0.65,0.2,0.32,0.26,0.32,0.42,0.29,0.19,0.61,0.07,-0.19,0.72,0.9,0.01,,I write detailed commit messages,Person,
+26,Q97,5.0,33.0,15.0,7.0,60.0,0.63,0.2,0.33,0.25,0.25,0.42,0.31,0.19,0.6,0.06,-0.21,0.72,0.92,0.01,,I enjoy trying to solve complex problems,Person,Enjoyment
+27,Q75,3.0,38.0,10.0,9.0,60.0,0.68,0.2,0.22,0.23,0.15,0.25,0.21,0.14,0.67,0.02,-0.15,0.72,0.75,0.0,,"Belonging to the  community is motivating my work on the repository. If you are the only developer in the project, please skip.",Person in Project,Community
+28,Q1,6.0,28.0,20.0,6.0,60.0,0.57,0.2,0.43,0.23,0.15,0.5,0.42,0.19,0.54,0.05,-0.29,0.72,0.99,0.0,,Productivity is more important to me than quality,Person,
+29,Q83,6.0,28.0,20.0,6.0,60.0,0.57,0.2,0.43,0.23,0.15,0.5,0.42,0.19,0.54,0.05,-0.29,0.72,0.99,0.0,,"My motivation has more influence on my productivity, than my skill",Person,
+30,Q65_1,10.0,14.0,34.0,2.0,60.0,0.4,0.2,0.73,0.23,0.14,0.83,0.71,0.22,0.36,0.11,-0.5,0.72,0.84,0.01,,Years of contribution to GitHub - Click to write Choice 1,Person,
+31,Q68,2.0,41.0,7.0,10.0,60.0,0.72,0.2,0.15,0.22,0.11,0.17,0.15,0.11,0.71,0.01,-0.1,0.72,0.61,0.0,,"We have many heated arguments in the community. If you are the only developer in the project, please skip.",Project,Hostility
+32,Q34,3.0,37.0,11.0,9.0,60.0,0.67,0.2,0.23,0.21,0.07,0.25,0.23,0.13,0.66,0.01,-0.17,0.72,0.78,0.0,,I have complete autonomy in contributing to the repository,Person in Project,Ownership
+33,Q88,5.0,29.0,19.0,7.0,60.0,0.57,0.2,0.4,0.21,0.04,0.42,0.4,0.16,0.56,0.01,-0.29,0.72,0.97,0.0,,My code is of high quality,Person,
+34,Q87,4.0,32.0,16.0,8.0,60.0,0.6,0.2,0.33,0.2,0.0,0.33,0.33,0.14,0.6,-0.0,-0.25,0.72,0.92,-0.0,,I am skilled in software development,Person,
+35,Q92,3.0,36.0,12.0,9.0,60.0,0.65,0.2,0.25,0.2,0.0,0.25,0.25,0.12,0.65,-0.0,-0.19,0.72,0.81,-0.0,,It is important for me to program well,Person,
+36,Q61_1,11.0,4.0,44.0,1.0,60.0,0.25,0.2,0.92,0.2,0.0,0.92,0.92,0.2,0.25,-0.0,-0.69,0.72,0.41,-0.0,,Age,Person,
+37,Q89,5.0,28.0,20.0,7.0,60.0,0.55,0.2,0.42,0.2,0.0,0.42,0.42,0.16,0.55,0.0,-0.31,0.72,0.98,0.0,,I am satisfied with my performance in software development,Person,
+38,Q69,2.0,40.0,8.0,10.0,60.0,0.7,0.2,0.17,0.2,0.0,0.17,0.17,0.1,0.7,-0.0,-0.13,0.72,0.65,-0.0,,"I wish that certain developers in the repository will leave. If you are the only developer in the project, please skip.",Person in Project,Hostility
+39,Q85,4.0,29.0,19.0,8.0,60.0,0.55,0.2,0.38,0.17,-0.13,0.33,0.4,0.13,0.57,-0.04,-0.31,0.72,0.96,0.0,,I am a relatively productive programmer,Person,
+40,Q71,3.0,33.0,15.0,9.0,60.0,0.6,0.2,0.3,0.17,-0.17,0.25,0.31,0.11,0.62,-0.03,-0.25,0.72,0.88,0.0,,I contribute to open source due to ideology,Person,Ideology
+41,Q99,2.0,38.0,10.0,10.0,60.0,0.67,0.2,0.2,0.17,-0.17,0.17,0.21,0.09,0.68,-0.02,-0.17,0.72,0.72,0.0,,I improved as a programmer since a year ago,Person,
+42,Q71.1,2.0,30.0,18.0,10.0,60.0,0.53,0.2,0.33,0.1,-0.5,0.17,0.38,0.07,0.6,-0.11,-0.33,0.72,0.92,0.02,,Working on this repository is challenging,Project,Challenge
+43,Q95.1,1.0,37.0,11.0,11.0,60.0,0.63,0.2,0.2,0.08,-0.58,0.08,0.23,0.04,0.68,-0.07,-0.21,0.72,0.72,0.02,,"In the past year, members of my GitHub community put me down or were condescending to me. If you are the only developer in the project, please skip.",Person in Project,Hostility
+44,Is_Paid,0.0,48.0,0.0,12.0,60.0,0.8,0.2,0.0,0.0,-1.0,0.0,0.0,0.0,0.8,0.0,0.0,0.72,0.0,0.0,,Is_Paid,Person in Project,Payment

@@ -1,0 +1,62 @@
+Question,Pearson,Question Text,question_type,motivation_type
+Q95,0.1008041587638503,I contribute to open source in order to have an online portfolio,Person,Recognition
+Q84,0.3607521917568039,I regularly reach a high level of productivity,Person,
+Q70,0.370200320632062,My work on the repository is creative,Person in Project,Joy
+Q92,0.1554450441008873,It is important for me to program well,Person,
+Q97,0.2092034853136203,I enjoy trying to solve complex problems,Person,Joy
+Q72,0.5384352916712835,I derive satisfaction from working on this repository,Person in Project,Joy
+Q81,0.2102972834814864,The quality of the code in this repository is better than others,Project,
+Q87.1,0.1042666875118649,Physical working conditions,Person in Project,
+Q77,0.288581234999956,I get recognition due to my contribution to the repository,Person in Project,Recognition
+Q102,0.1857844874229063,I have significant influence on the repository,Person in Project,Ownership
+Q97.1,0.2297872568171466,"In the past year, members of my GitHub community asked questions that show their understanding of my contributions. If you are the only developer in the project, please skip.",Person in Project,Recognition
+Q90.1,0.2103714312536821,Recognition you get for good work,Person in Project,
+Q98.1,0.2680623020633247,"In the past year, members of my GitHub community expressed interest in my contributions. If you are the only developer in the project, please skip.",Person in Project,Recognition
+Q101,0.3541747943730868,I feel responsible to the repository success,Person in Project,Ownership
+Q76,0.3172109569743419,"The community is very professional. If you are the only developer in the project, please skip.",Project,Community
+Q93,0.1239005401511734,I write tests for my code,Person,
+Q78,0.1744864210875631,I am a core member of the repository,Person in Project,Ownership
+Q86.1,0.2653796147522588,Amount of variety in your work,Person in Project,
+Q63,-0.0625034743604852,I work as a professional programmer,Other,
+Q31,-0.1530147960381546,I’m being paid for my work in this repository,Other,
+Q96,0.0834014826670656,I try to write high quality code because others will see it,Person,Recognition
+Q79,0.2341181057662317,I learn from my contributions,Person in Project,Learning
+Q95.1,-0.0486510519828161,"In the past year, members of my GitHub community put me down or were condescending to me. If you are the only developer in the project, please skip.",Person in Project,Hostility
+Q87,0.1862698767521613,I am skilled in software development,Person,
+Q71.1,0.2987300944773671,Working on this repository is challenging,Project,Challenge
+Q83,-0.0156119740260403,"My motivation has more influence on my productivity, than my skill",Person,
+Q89,0.3013531641398471,I am satisfied with my performance in software development,Person,
+Q74,0.4036497764666544,"When I look at what we accomplish, I feel a sense of pride",Person in Project,
+Q61_1,0.1107551493170234,Age,Person,
+Q1,-0.1046542032060025,Productivity is more important to me than quality,Person,
+Q82,0.3713974911510493,Code quality in the repository improved since a year ago,Project,
+Q85,0.2714185584189703,I am a relatively productive programmer,Person,
+Q72.1,0.2258082267468985,"The following questions are from Job Satisfaction Scale questionnaire.We present the questionnaire as is in order to compare to previous results. 
+In case that you find some questions irrelevant, please skip them.
+The questions indicate level of satisfaction with the following:
+Freedom to choose your own method of working",Person in Project,
+Q68,0.0824973319986342,"We have many heated arguments in the community. If you are the only developer in the project, please skip.",Project,Hostility
+Q89.1,0.2534178797052493,Your colleagues and fellow workers,Person in Project,
+Q69,-0.0427217144894088,"I wish that certain developers in the repository will leave. If you are the only developer in the project, please skip.",Person in Project,Hostility
+Q83.1,0.3678779690862769,"The repository’s community of developers is more motivated than that of other repositories. If you are the only developer in the project, please skip.",Project,Community
+Q92.1,0.080742084088457,Your remuneration (payment),Person in Project,
+Q67,0.1639132734000831,I’m interested in the repository for my own needs,Person in Project,Self-use
+Q65_1,0.0693315778408946,Years of contribution to GitHub - Click to write Choice 1,Person,
+Q88,0.1702590577278387,My code is of high quality,Person,
+Q84.1,0.4943144837848349,My personal motivation in this repository has increased since a year ago,Person in Project,
+Q98,0.0804761969440222,I contribute to open source in order to become a better programmer,Person,
+Q91.1,0.172322346132689,Your hours of work,Person in Project,
+Q91,0.2667778124544349,I enjoy software development very much,Person,Joy
+Q34,0.1188512567039485,I have complete autonomy in contributing to the repository,Person in Project,Ownership
+Q86,1.0,I regularly have a high level of motivation to contribute to the repository,Person in Project,Motivation
+Q90,0.1749840887674419,I want my code to be beautiful,Person,
+Q88.1,0.2381824315842063,Opportunities to use your abilities,Person in Project,
+Q93.1,0.240404722834579,Amount of responsibility you are given,Person in Project,
+Q75,0.3465685749433447,"Belonging to the  community is motivating my work on the repository. If you are the only developer in the project, please skip.",Person in Project,Community
+Q94.1,0.3157629327071171,"Taking everything into consideration, how do you feel about your work?",Person in Project,
+Is_Paid,0.1530147960381547,Is_Paid,Person in Project,Payment
+Q71,0.140422946192615,I contribute to open source due to ideology,Person,Ideology
+Q99,0.1567788078655645,I improved as a programmer since a year ago,Person,
+Q96.1,0.0561584582579631,"In the past year, members of my GitHub community made demeaning or derogatory remarks about me. If you are the only developer in the project, please skip.",Person in Project,Hostility
+Q73,0.347816644579538,The repository is important,Project,Importance
+Q94,0.0956836300333243,I write detailed commit messages,Person,

@@ -1,0 +1,27 @@
+Hello,
+
+About a year ago you answered our survey about motivation in software development.
+We are interested in investigating motivation over time.
+Since only past participants can help us to compare answers, your answer will be extremely valuable.
+
+We will be thankful if you'll answer about your experience at "${m://ExternalDataReference}", as in the previous time.
+If you are no longer active in this project, please answer about a different one.
+
+Answering these questions is estimated to take about 10 minutes of your time.
+
+Three of the participants will receive a 50$ gift card.
+
+Thank you so much for your help in answering  the survey.
+
+Prof. Dror Feitelson, Prof. Avi Kluger,  Ph.D. candidate Idan Amit
+
+If you have any question you can contact Idan Amit at idan.amit@mail.huji.ac.il
+
+Follow this link to the Survey:
+${l://SurveyLink?d=Take the Survey}
+
+Or copy and paste the URL below into your internet browser:
+${l://SurveyURL}
+
+Follow the link to opt out of future emails:
+${l://OptOutLink?d=Click here to unsubscribe}

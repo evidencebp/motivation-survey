@@ -1,0 +1,46 @@
+Question,High Answer Probability,Question Text,question_type,motivation_type
+Q96.1,0.04513064133016627,"In the past year, members of my GitHub community made demeaning or derogatory remarks about me. If you are the only developer in the project, please skip.",Person in Project,Hostility
+Q87,0.6801541425818882,I am skilled in software development,Person,
+Q84.1,0.3735408560311284,My personal motivation in this repository has increased since a year ago,Person in Project,
+Q72,0.7162162162162162,I derive satisfaction from working on this repository,Person in Project,Joy
+Q83,0.5899419729206963,"My motivation has more influence on my productivity, than my skill",Person,
+Q1,0.11175337186897881,Productivity is more important to me than quality,Person,
+Q78,0.7969052224371374,I am a core member of the repository,Person in Project,Ownership
+Q94,0.41811175337186895,I write detailed commit messages,Person,
+Q93,0.5317919075144508,I write tests for my code,Person,
+Q67,0.5579150579150579,I’m interested in the repository for my own needs,Person in Project,Self-use
+Q77,0.5242718446601942,I get recognition due to my contribution to the repository,Person in Project,Recognition
+Q98.1,0.5571776155717761,"In the past year, members of my GitHub community expressed interest in my contributions. If you are the only developer in the project, please skip.",Person in Project,Recognition
+Q79,0.723404255319149,I learn from my contributions,Person in Project,Learning
+Q98,0.42857142857142855,I contribute to open source in order to become a better programmer,Person,
+Q65_1,0.18340611353711792,Years of contribution to GitHub - Click to write Choice 1,Person,
+Q90,0.7148362235067437,I want my code to be beautiful,Person,
+Q85,0.5761078998073218,I am a relatively productive programmer,Person,
+Q69,0.06921241050119331,"I wish that certain developers in the repository will leave. If you are the only developer in the project, please skip.",Person in Project,Hostility
+Q91,0.8166023166023166,I enjoy software development very much,Person,Joy
+Q101,0.7524177949709865,I feel responsible to the repository success,Person in Project,Ownership
+Q81,0.38791423001949316,The quality of the code in this repository is better than others,Project,
+Q95,0.27413127413127414,I contribute to open source in order to have an online portfolio,Person,Recognition
+Q96,0.5231660231660231,I try to write high quality code because others will see it,Person,Recognition
+Q70,0.5764023210831721,My work on the repository is creative,Person in Project,Joy
+Q97,0.838150289017341,I enjoy trying to solve complex problems,Person,Joy
+Q84,0.44874274661508706,I regularly reach a high level of productivity,Person,
+Q89,0.51252408477842,I am satisfied with my performance in software development,Person,
+Q83.1,0.23658536585365852,"The repository’s community of developers is more motivated than that of other repositories. If you are the only developer in the project, please skip.",Project,Community
+Q74,0.7325581395348837,"When I look at what we accomplish, I feel a sense of pride",Person in Project,
+Q71.1,0.6213592233009708,Working on this repository is challenging,Project,Challenge
+Q82,0.5786407766990291,Code quality in the repository improved since a year ago,Project,
+Q88,0.5926640926640927,My code is of high quality,Person,
+Q34,0.6349514563106796,I have complete autonomy in contributing to the repository,Person in Project,Ownership
+Q102,0.7374517374517374,I have significant influence on the repository,Person in Project,Ownership
+Q99,0.7451737451737451,I improved as a programmer since a year ago,Person,
+Q86,0.5240847784200385,I regularly have a high level of motivation to contribute to the repository,Person in Project,Motivation
+Q68,0.09615384615384616,"We have many heated arguments in the community. If you are the only developer in the project, please skip.",Project,Hostility
+Q92,0.8667953667953668,It is important for me to program well,Person,
+Q95.1,0.04513064133016627,"In the past year, members of my GitHub community put me down or were condescending to me. If you are the only developer in the project, please skip.",Person in Project,Hostility
+Q76,0.5662650602409639,"The community is very professional. If you are the only developer in the project, please skip.",Project,Community
+Q97.1,0.5180722891566265,"In the past year, members of my GitHub community asked questions that show their understanding of my contributions. If you are the only developer in the project, please skip.",Person in Project,Recognition
+Q61_1,1.0,Age,Person,
+Q75,0.4057971014492754,"Belonging to the  community is motivating my work on the repository. If you are the only developer in the project, please skip.",Person in Project,Community
+Q73,0.6293436293436293,The repository is important,Project,Importance
+Q71,0.5349794238683128,I contribute to open source due to ideology,Person,Ideology

@@ -1,0 +1,47 @@
+,Question,count,mean,std,min,25%,50%,75%,max,Question Text
+0,Q72,520.0,9.01923076923077,1.9707923605827173,1.0,8.0,9.0,11.0,11.0,I derive satisfaction from working on this repository
+1,Q98.1,413.0,7.99273607748184,2.4844068113832893,1.0,6.0,9.0,10.0,11.0,"In the past year, members of my GitHub community expressed interest in my contributions. If you are the only developer in the project, please skip."
+2,Q89,1018.0,7.7907662082514735,2.265649867886051,1.0,6.0,8.5,9.0,11.0,I am satisfied with my performance in software development
+3,Q83.1,411.0,6.430656934306569,2.3575378447303756,1.0,6.0,6.0,8.0,11.0,"The repository’s community of developers is more motivated than that of other repositories. If you are the only developer in the project, please skip."
+4,Is_Paid,688.0,0.4127906976744186,0.4926939902867941,0.0,0.0,0.0,1.0,1.0,Is_Paid
+5,Q99,1017.0,9.417895771878072,1.9292083299800438,1.0,9.0,10.0,11.0,11.0,I improved as a programmer since a year ago
+6,Q75,416.0,7.252403846153846,2.7306813643528103,1.0,6.0,8.0,9.0,11.0,"Belonging to the  community is motivating my work on the repository. If you are the only developer in the project, please skip."
+7,Q67,521.0,7.861804222648752,3.0064193832117576,1.0,6.0,9.0,11.0,11.0,I’m interested in the repository for my own needs
+8,Q71,969.0,7.340557275541796,3.0878353866541466,1.0,6.0,8.0,10.0,11.0,I contribute to open source due to ideology
+9,Q81,514.0,7.2042801556420235,2.447718667207583,1.0,6.0,7.0,9.0,11.0,The quality of the code in this repository is better than others
+10,Q86,519.0,7.89980732177264,2.4426985128295087,1.0,6.0,9.0,9.0,11.0,I regularly have a high level of motivation to contribute to the repository
+11,Q85,1019.0,8.100098135426888,2.0732627566093678,1.0,7.0,9.0,9.0,11.0,I am a relatively productive programmer
+12,Q88,1013.0,8.188548864758143,1.8726730400821676,1.0,7.0,9.0,9.0,11.0,My code is of high quality
+13,Q74,517.0,9.06963249516441,1.899353842683667,1.0,8.0,9.0,11.0,11.0,"When I look at what we accomplish, I feel a sense of pride"
+14,Q96,1015.0,7.646305418719212,2.8561887622980917,1.0,6.0,8.0,10.0,11.0,I try to write high quality code because others will see it
+15,Q87,1017.0,8.71386430678466,1.9082638647818653,1.0,8.0,9.0,10.0,11.0,I am skilled in software development
+16,Q98,1017.0,6.75417895771878,3.048257657012144,1.0,5.0,7.0,9.0,11.0,I contribute to open source in order to become a better programmer
+17,Q68,417.0,3.8369304556354917,2.8693134694587377,1.0,1.0,3.0,6.0,11.0,"We have many heated arguments in the community. If you are the only developer in the project, please skip."
+18,Q95.1,424.0,2.4033018867924527,2.4744726865531605,1.0,1.0,1.0,3.0,11.0,"In the past year, members of my GitHub community put me down or were condescending to me. If you are the only developer in the project, please skip."
+19,Q73,520.0,8.623076923076923,2.2766821162441557,1.0,7.0,9.0,11.0,11.0,The repository is important
+20,Q70,518.0,8.202702702702704,2.3666428720821413,1.0,7.0,9.0,10.0,11.0,My work on the repository is creative
+21,Q91,1018.0,9.579567779960707,1.6117974020069048,1.0,9.0,10.0,11.0,11.0,I enjoy software development very much
+22,Q93,1016.0,7.7795275590551185,2.8809915803311985,1.0,6.0,9.0,10.0,11.0,I write tests for my code
+23,Q78,518.0,9.38030888030888,3.012571708522895,1.0,9.0,11.0,11.0,11.0,I am a core member of the repository
+24,Q69,420.0,2.692857142857143,2.6941900591844896,1.0,1.0,1.0,3.0,11.0,"I wish that certain developers in the repository will leave. If you are the only developer in the project, please skip."
+25,Q65_1,477.0,5.463312368972747,3.1988075399171363,1.0,3.0,5.0,8.0,15.0,Years of contribution to GitHub - Click to write Choice 1
+26,Q1,1018.0,4.513752455795678,2.5812856982646735,1.0,3.0,4.0,6.0,11.0,Productivity is more important to me than quality
+27,Q34,518.0,8.36100386100386,3.0595293875833307,1.0,6.0,9.0,11.0,11.0,I have complete autonomy in contributing to the repository
+28,Q96.1,425.0,2.2494117647058824,2.380919808455385,1.0,1.0,1.0,3.0,11.0,"In the past year, members of my GitHub community made demeaning or derogatory remarks about me. If you are the only developer in the project, please skip."
+29,Q102,520.0,9.201923076923077,2.7263779909901427,1.0,8.0,11.0,11.0,11.0,I have significant influence on the repository
+30,Q82,518.0,8.397683397683398,2.201668621678827,1.0,7.0,9.0,10.0,11.0,Code quality in the repository improved since a year ago
+31,Q95,1015.0,5.602955665024631,3.124155291437146,1.0,3.0,6.0,8.0,11.0,I contribute to open source in order to have an online portfolio
+32,Q97.1,416.0,7.665865384615385,2.8414128881794247,1.0,6.0,9.0,9.0,11.0,"In the past year, members of my GitHub community asked questions that show their understanding of my contributions. If you are the only developer in the project, please skip."
+33,Q92,1017.0,9.792527040314651,1.503677645678285,1.0,9.0,10.0,11.0,11.0,It is important for me to program well
+34,Q77,516.0,7.76937984496124,2.7763062006045582,1.0,6.0,9.0,10.0,11.0,I get recognition due to my contribution to the repository
+35,Q84.1,515.0,7.036893203883495,2.715533580119968,1.0,6.0,6.0,9.0,11.0,My personal motivation in this repository has increased since a year ago
+36,Q61_1,508.0,33.145669291338585,10.444860430522684,15.0,26.0,31.0,38.0,100.0,Age
+37,Q101,519.0,9.138728323699421,2.4745857110824665,1.0,9.0,10.0,11.0,11.0,I feel responsible to the repository success
+38,Q83,1016.0,8.303149606299213,2.328793831707914,1.0,6.0,9.0,10.0,11.0,"My motivation has more influence on my productivity, than my skill"
+39,Q71.1,517.0,8.410058027079303,2.1607257691200683,1.0,7.0,9.0,10.0,11.0,Working on this repository is challenging
+40,Q84,1014.0,7.516765285996056,2.2702885844754785,1.0,6.0,8.0,9.0,11.0,I regularly reach a high level of productivity
+41,Q97,1019.0,9.469087340529931,1.6560231944204287,1.0,9.0,10.0,11.0,11.0,I enjoy trying to solve complex problems
+42,Q79,518.0,9.150579150579151,1.8618925222783684,1.0,8.0,9.0,11.0,11.0,I learn from my contributions
+43,Q76,417.0,8.39568345323741,2.2594418506525797,1.0,7.0,9.0,10.0,11.0,"The community is very professional. If you are the only developer in the project, please skip."
+44,Q94,1019.0,7.1727183513248285,2.6931481075210173,1.0,6.0,8.0,9.0,11.0,I write detailed commit messages
+45,Q90,1017.0,9.103244837758112,2.046737198922266,1.0,8.0,9.0,11.0,11.0,I want my code to be beautiful
