@@ -1,5 +1,4 @@
 # A Large Scale Survey of Motivation in Software Development and Analysis of its Validity
-Idan Amit and [Dror G. Feitelson](https://www.cs.huji.ac.il/w~feit/)
 
 **Context:** Motivation is known to improve performance. In software development in particular, there has been considerable interest in the
 motivation of contributors to open-source.
