@@ -48,6 +48,8 @@ def analyze_surveys_hit_rates():
 
     corr = df.corr()
     print(corr)
+    print('avg_rank_corr', corr['avg_rank'])
+    print('our', corr['our'])
 
 if __name__ == "__main__":
     analyze_surveys_hit_rates()
