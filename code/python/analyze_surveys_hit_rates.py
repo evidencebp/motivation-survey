@@ -50,6 +50,7 @@ def analyze_surveys_hit_rates():
     print(corr)
     print('avg_rank_corr', corr['avg_rank'])
     print('our', corr['our'])
+    print('couger1988motivators 1987', corr['couger1988motivators 1987'])
 
 if __name__ == "__main__":
     analyze_surveys_hit_rates()
