@@ -23,15 +23,22 @@ def analyze_surveys_hit_rates():
 
     ranked = [i + '_rank' for i in to_rank_columns] + ['couger1988motivators 1977 (fitz1978dp)', 'couger1988motivators 1987']
     df['avg_rank'] = df[ranked].mean(axis=1)
+    df['min_rank'] = df[ranked].min(axis=1)
+    df['max_rank'] = df[ranked].max(axis=1)
+    df['rank_gap'] = df['max_rank'] - df['min_rank']
+
+
     df = df.sort_values('avg_rank')
+    df.rename(columns={'Ours': 'Motivator'}
+              , inplace=True)
 
     print()
 
-    columns_header = '{ | p{25mm}| p{12mm}| p{12mm}| p{12mm}| p{15mm}| p{12mm}| p{12mm}  |p{12mm}  |}'
-    df_to_latex_table(df[['Ours', 'avg_rank']
+    columns_header = '{ | p{25mm}| p{12mm}| p{12mm}| p{12mm}| p{15mm}| p{12mm}| p{12mm}  |p{12mm}  | p{12mm}  |}'
+    df_to_latex_table(df[['Motivator', 'avg_rank']
                          + ['couger1988motivators 1977 (fitz1978dp)', 'couger1988motivators 1987'
                             , 'herzberg1986one_combined', 'gerosa2021shifting_combined'
-                            , 'our_combined', 'follow-up_combined']
+                            , 'our_combined', 'follow-up_combined' , 'rank_gap']
                          ].fillna('')
                         , caption=' \label{tab:surveys-hit-rate} Surveys Hit Rate Comparison'
                         , columns_to_name={'avg_rank': 'Avg. Rank'
@@ -41,6 +48,7 @@ def analyze_surveys_hit_rates():
                                            , 'gerosa2021shifting_combined': 'Gerosa \cite{gerosa2021shifting}'
                                            , 'our_combined': 'Our'
                                            , 'follow-up_combined': 'Follow-up'
+                                           , 'rank_gap': 'Gap'
                                            }
                         , star_table=True
                         , columns_header=columns_header
