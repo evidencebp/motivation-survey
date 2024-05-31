@@ -13,7 +13,8 @@ def analyze_surveys_hit_rates():
     to_rank_columns = ['herzberg1986one', 'gerosa2021shifting', 'our', 'follow-up']
 
     for i in to_rank_columns:
-        df[i + '_rank'] = df[i].rank(ascending=False)
+        df[i + '_rank'] = df[i].rank(ascending=False
+                                     , method='min')
         df[i + '_combined'] = df.apply(lambda x: '' if np.isnan(x[i]) else str(x[i + '_rank']) + ' (' + str(x[i]) + ')'
                                        , axis=1)
 
@@ -55,6 +56,8 @@ def analyze_surveys_hit_rates():
     print('avg_rank_corr', corr['avg_rank'])
     print('our', corr['our'])
     print('couger1988motivators 1987', corr['couger1988motivators 1987'])
+    dist_corr = df[['herzberg1986one', 'gerosa2021shifting', 'our', 'follow-up']].corr()
+    print("dist corr", dist_corr)
 
 if __name__ == "__main__":
     analyze_surveys_hit_rates()
