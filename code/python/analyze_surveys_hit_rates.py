@@ -10,15 +10,11 @@ from df_to_latex_table import df_to_latex_table
 def analyze_surveys_hit_rates():
     df = pd.read_csv(join(DATA_PATH
                           , "motivation_factors_hit_rates.csv"))
-    to_rank_columns = ['herzberg1986one', 'our', 'follow-up']
+    to_rank_columns = ['herzberg1986one', 'gerosa2021shifting', 'our', 'follow-up']
 
     for i in to_rank_columns:
         df[i + '_rank'] = df[i].rank(ascending=False)
         df[i + '_combined'] = df.apply(lambda x: '' if np.isnan(x[i]) else str(x[i + '_rank']) + ' (' + str(x[i]) + ')'
-                                       , axis=1)
-    i = 'gerosa2021shifting'
-    df[i + '_rank'] = df[i].rank(ascending=True)
-    df[i + '_combined'] = df.apply(lambda x: '' if np.isnan(x[i]) else str(x[i + '_rank']) + ' (' + str(x[i]) + ')'
                                        , axis=1)
 
     ranked = [i + '_rank' for i in to_rank_columns] + ['couger1988motivators 1977 (fitz1978dp)', 'couger1988motivators 1987']
