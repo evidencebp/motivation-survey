@@ -26,7 +26,7 @@ improvement with up to 94% accuracy, better than any single motivator.
 
 **Keywords:** Motivation · Software engineering · Open-source development · Survey validity
 
-**Repository content:**
+# Repository content
 This repository contain the data and source code use for this paper.
 To reproduce see [code/python/main.py](https://github.com/evidencebp/motivation/blob/master/code/python/main.py)
 Note that original [data](https://github.com/evidencebp/motivation/tree/master/data) containied personal identifiers (e.g., GitHub profiles), which was anonimized before publishing.
