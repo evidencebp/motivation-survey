@@ -29,5 +29,10 @@ improvement with up to 94% accuracy, better than any single motivator.
 # Repository content
 This repository contain the data and source code use for this paper.
 To reproduce see [code/python/main.py](https://github.com/evidencebp/motivation/blob/master/code/python/main.py)
-Note that original [data](https://github.com/evidencebp/motivation/tree/master/data) containied personal identifiers (e.g., GitHub profiles), which was anonimized before publishing.
+Note that original [data](https://github.com/evidencebp/motivation/tree/master/data) containied personal identifiers (e.g., GitHub profiles), which was anonimized before publishing.y
+
+See also [additional analysis](https://github.com/evidencebp/motivation-survey/tree/main/additional%20analysis), not included in paper due to length.
+The analysis included demography and it comparision to the Stack Overflow annual survey.
+It also contains the use of reduction to supervised learning to differ between participants contacted by email and by social media (they are rather similar).
+Last, it contains an analysis between the different motivators.
 
