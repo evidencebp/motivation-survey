@@ -1,0 +1,6 @@
+- anon_survey_results.csv -  contains the answers of the original survey. participants identifiers were hashed to keep privacy but allow matching with the follow up survey.
+- anon_follow_up_results.csv - the answers of the follow up survey.
+- columns_names.json - Mapping between Qualtrics indices and questions. questions_utils.py encapsulates that.
+- motivation_factors_hit_rates.csv - Motivators hit rate in various surveys. Used to [analyze surveys validity](https://github.com/evidencebp/motivation-survey/blob/main/additional%20analysis/survey_validity.pdf)
+- motivation_factors_mapping.csv - The mapping of factors in various surveys to our motivators. Used to [analyze surveys validity](https://github.com/evidencebp/motivation-survey/blob/main/additional%20analysis/survey_validity.pdf)
+- repos_2020.csv, repos_2020_api_properties.csv, repos_by_public.csv - GitHub repositories and their properties. Used to select developers contacted by email.
