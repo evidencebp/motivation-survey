@@ -1,0 +1,1 @@
+The queries contain analysis of the motivation labeling functions, based on developers behavior in GitHub. The labeling function were used in [motivation research using labeling functions](https://dl.acm.org/doi/10.1145/3661167.3661224)
